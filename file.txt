@@ -1,0 +1,3 @@
+Prueba de escritura con VIM
+Guardar
+Prueba escritura desde la terminal
